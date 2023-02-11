@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dandavanda
 - 👀 I’m interested in Web Development especially front-end development
-- 🌱 I’m currently learning Javascript, React.js 
+- 🌱 I’m currently learning Angular 
 - 📫 How to reach me https://id.linkedin.com/in/novanda-seimahuira
 <!---- 💞️ I’m looking to collaborate on ... --->
 
